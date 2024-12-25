@@ -33,7 +33,7 @@
     "@elastic/eui": "^63.0.0",
     "@emotion/cache": "^11.10.3",
     "@emotion/react": "^11.10.4",
-    "axios": "^0.26.1",
+    "axios": "^1.7.9",
     "botasaurus-controls": "latest",
     "cogo-toast-react-17-fix": "latest",
     "lodash.debounce": "^4.0.8",
